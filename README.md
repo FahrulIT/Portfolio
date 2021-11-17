@@ -6,6 +6,7 @@ Persyaratan Menjalankan Aplikasi
 - Windows 10
 - Net Framework 4
 - Sql Server 2008 keatas (Database)
+- Winrar (untuk ektrak database)
 
 <b>Costing Actem - Demo Project</br>
 
