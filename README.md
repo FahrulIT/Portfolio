@@ -1,6 +1,6 @@
 # Portfolio
 Short Description </br> </br>
-Program ini hanya bersifat demo. Halaman yang ditampilkan hanya sebatas halaman manajemen user dan halaman entry
+Program ini hanya bersifat demo. Halaman yang ditampilkan hanya sebatas halaman manajemen user dan halaman entry </br>
 Persyaratan Menjalankan Aplikasi
 - Visual Studio 2010
 - Windows 10
